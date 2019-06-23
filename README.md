@@ -1,4 +1,4 @@
-# HackerRankInterviewPreparationChallanges
+# HackerRankInterviewPreparation
 My solutions for the HackerRank Interview Preparation Kit
 
-https://github.com/GenchoBG/HackerRankInterviewPreparationChallanges.git
+https://www.hackerrank.com/interview/interview-preparation-kit
