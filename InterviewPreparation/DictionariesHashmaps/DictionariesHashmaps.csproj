@@ -3,7 +3,13 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <StartupObject>DictionariesHashmaps.SherlockAnagrams</StartupObject>
+    <StartupObject>DictionariesHashmaps.CountTriplets</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="input.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 
 </Project>
