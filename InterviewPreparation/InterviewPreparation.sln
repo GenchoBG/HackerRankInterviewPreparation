@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{AE6F283E-BD92-45F7-8B39-63AB4B7110AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesHashmaps", "DictionariesHashmaps\DictionariesHashmaps.csproj", "{AFDCCA63-1531-4FA9-A244-F22E528C51C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionariesHashmaps", "DictionariesHashmaps\DictionariesHashmaps.csproj", "{AFDCCA63-1531-4FA9-A244-F22E528C51C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{D33382B2-C6C2-4242-B6CA-FB6BD988EC18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AFDCCA63-1531-4FA9-A244-F22E528C51C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFDCCA63-1531-4FA9-A244-F22E528C51C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFDCCA63-1531-4FA9-A244-F22E528C51C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33382B2-C6C2-4242-B6CA-FB6BD988EC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33382B2-C6C2-4242-B6CA-FB6BD988EC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33382B2-C6C2-4242-B6CA-FB6BD988EC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33382B2-C6C2-4242-B6CA-FB6BD988EC18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
