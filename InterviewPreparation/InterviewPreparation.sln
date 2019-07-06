@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionariesHashmaps", "Dic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting", "Sorting\Sorting.csproj", "{D33382B2-C6C2-4242-B6CA-FB6BD988EC18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulations", "StringManipulations\StringManipulations.csproj", "{B771E76E-A7CD-4E86-B611-1294B844B4FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulations", "StringManipulations\StringManipulations.csproj", "{B771E76E-A7CD-4E86-B611-1294B844B4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy", "Greedy\Greedy.csproj", "{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B771E76E-A7CD-4E86-B611-1294B844B4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B771E76E-A7CD-4E86-B611-1294B844B4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B771E76E-A7CD-4E86-B611-1294B844B4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
