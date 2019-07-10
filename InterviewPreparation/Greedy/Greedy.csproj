@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <StartupObject>Greedy.GreedyFlorist</StartupObject>
+    <StartupObject>Greedy.MaxMin</StartupObject>
     <AssemblyName>Greedy</AssemblyName>
   </PropertyGroup>
 
