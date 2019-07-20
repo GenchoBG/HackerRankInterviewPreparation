@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulations", "StringManipulations\StringManipulations.csproj", "{B771E76E-A7CD-4E86-B611-1294B844B4FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greedy", "Greedy\Greedy.csproj", "{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greedy", "Greedy\Greedy.csproj", "{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{B29A4792-A8B8-4277-A92A-7EED92D8DD26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCCB2E31-DB02-4ED1-89D9-061890E7AE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29A4792-A8B8-4277-A92A-7EED92D8DD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29A4792-A8B8-4277-A92A-7EED92D8DD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29A4792-A8B8-4277-A92A-7EED92D8DD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29A4792-A8B8-4277-A92A-7EED92D8DD26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
